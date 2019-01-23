@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/selenium-java-2.53.1/selenium-2.53.1/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/selenium-java-2.53.1/selenium-2.53.1/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/gherkin-jvm-deps-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/jchronic-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_/CUCUMBER JAR FILES/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/extend_jar_files/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/extend_jar_files/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/extend_jar_files/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/extend_jar_files/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/extend_jar_files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/extend_jar_files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/extend_jar_files/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/CUCUMBER-JAR-FILES-_1_.zip"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/extend_jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/gherkin-jvm-deps-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/IEDriverServer_Win32_3.14.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/jchronic-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/junit-4.11 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chepuripa/Desktop/cucumber setup/selenium-java-2.53.1.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
